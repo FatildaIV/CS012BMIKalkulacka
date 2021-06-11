@@ -1,0 +1,9 @@
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS012BMIKalkulacka\CS012BMIKalkulacka\bin\Debug\CS012BMIKalkulacka.exe.config
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS012BMIKalkulacka\CS012BMIKalkulacka\bin\Debug\CS012BMIKalkulacka.exe
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS012BMIKalkulacka\CS012BMIKalkulacka\bin\Debug\CS012BMIKalkulacka.pdb
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS012BMIKalkulacka\CS012BMIKalkulacka\obj\Debug\CS012BMIKalkulacka.csprojResolveAssemblyReference.cache
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS012BMIKalkulacka\CS012BMIKalkulacka\obj\Debug\CS012BMIKalkulacka.BMIKalkulačka.resources
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS012BMIKalkulacka\CS012BMIKalkulacka\obj\Debug\CS012BMIKalkulacka.Properties.Resources.resources
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS012BMIKalkulacka\CS012BMIKalkulacka\obj\Debug\CS012BMIKalkulacka.csproj.GenerateResource.Cache
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS012BMIKalkulacka\CS012BMIKalkulacka\obj\Debug\CS012BMIKalkulacka.exe
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS012BMIKalkulacka\CS012BMIKalkulacka\obj\Debug\CS012BMIKalkulacka.pdb
